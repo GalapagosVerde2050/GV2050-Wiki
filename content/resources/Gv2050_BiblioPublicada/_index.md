@@ -12,6 +12,10 @@ weight: 4
 
 ## Artículos
 
++ **Nov 2025** - Plant science meets the decision-making process of restoration in quarries and waste dumps of a remote archipelago [(PDF)](restauracion_minas.pdf)
+
++ **Oct 2025** - Confirmed presence of a population of the critically endangered shrub Scalesia retroflexa after 29 years without sightings [(PDF)](S_retroflexa_nota.pdf)
+
 + **Aug 2024** - Advancing conservation strategies for the endangered Galapagos plant Lecocarpus lecocarpoides: insights from ex situ propagation [(PDF)](articulo_Lecocarpus.pdf)
 
 + **May 2024** - Defining large-scale arid island vegetation recovery targets through evaluating a reference ecosystem within an archipelago extent [(PDF)](articulo_Baltra.pdf)
@@ -34,6 +38,7 @@ weight: 4
 
 ## Libros y capitulos en libros
 
++ **Dec 2025** - Flora nativa y endémica de las islas Galápagos: Guía de propagación [(ES)](Guia_propagacion.pdf)
 + **Apr 2020** - The Galapagos Verde 2050 Project [(EN)](GVProject.pdf) [(ES)](GVProyecto.pdf)
 + **Nov 2017** - Siembrame en tu jardin / Kanpa sisapampapi tarpuway / Plant me in your garden. Jardines nativos para la conservación de Galapagos.[(ES)](SiembraJardin.pdf)
 + **Sep 2015** - Galapagos Verde 2050: An opportunity to restore degraded ecosystems and promote sustainable agriculture in the Archipelago [(EN)](GVReport_Engl.pdf) [(ES)](GVReport_Esp.pdf)
@@ -58,6 +63,9 @@ weight: 4
 [(EN)](triptico_en.pdf)
 
 ## Blogs 
++ **May 2024** - Lecocarpus lecocarpoides: From near local extinction to new beginnings on Española
+Island. [(Link)](https://www.darwinfoundation.org/en/news/all-news-stories/lecocarpus-lecocarpoides-from-near-local-extinction-to-new-beginnings-on-espanola-island/)
++ **Feb 2024** - Re-encountering Scalesia retroflexa at El Garrapatero. [(Link)](https://www.darwinfoundation.org/en/news/all-news-stories/re-encountering-scalesia-retroflexa-at-el-garrapatero/)
 + **Jul 2022** - Leaving my mark in the Galapagos as a GV2050 volunteer! [(Link)](https://www.darwinfoundation.org/en/blog-articles/820-leaving-my-mark-in-the-galapagos-as-a-gv2050-volunteer)
 + **Jun 2022** - Galápagos Verde 2050: Adventure of a lifetime for an ecological restoration biologist on the Galapagos Islands! [(Link)](https://www.darwinfoundation.org/en/blog-articles/800-galapagos-verde-2050-adventure-of-a-lifetime-for-an-ecological-restoration-biologist-on-the-galapagos-islands)
 + **Jun 2020** - Salvando una especie al borde de la extinción: Galápagos Verde 2050 [(Link)](https://www.darwinfoundation.org/es/articulos-blog/576-salvando-una-especie-al-borde-de-la-extincion-galapagos-verde-2050)
