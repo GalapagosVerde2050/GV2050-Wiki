@@ -12,6 +12,18 @@ weight: 4
 
 ## Artículos
 
++ **Aug 2024** - Advancing conservation strategies for the endangered Galapagos plant Lecocarpus lecocarpoides: insights from ex situ propagation [(PDF)](articulo_Lecocarpus.pdf)
+
++ **May 2024** - Defining large-scale arid island vegetation recovery targets through evaluating a reference ecosystem within an archipelago extent [(PDF)](articulo_Baltra.pdf)
+
++ **May 2024** - Potential model of Scalesia pedunculata carbon sequestration through restoration efforts in agricultural fields of Galapagos [(PDF)](carbono_Scalesia.pdf)
+
++ **Jan 2024** - Assessing Water-Saving Technologies and the Impact of Giant Tortoise Herbivory on the Restoration of Opuntia megasperma var. orientalis on Española Island—Galapagos [(PDF)](water-Española.pdf)
+
++ **Dec 2023** - Enhancing restoration success of rare plants in an arid-tropical climate through water-saving technologies: a case study of Scalesia affinis ssp. brachyloba in the Galapagos Islands [(PDF)](peerj-S_affinis.pdf)
+
++ **June 2023** - Water-Saving Technologies in Galapagos Agriculture: A Step towards Sustainability [(PDF)](horticulturae-five-crops.pdf)
+
 + **Oct 2022** - Adoption of Sustainable Agriculture Practices through Participatory Research: A Case Study on Galapagos Islands Farmers Using Water-Saving Technologies [(PDF)](plants-11-02848.pdf)
 
 + **Apr 2022** - Rediscovery of the Galapagos endemic Lecocarpus leptolobus (Asteraceae), its morphology, distribution and taxonomy relative to its congeners [(PDF)](Tye_Jaramillo2022.pdf)
@@ -39,6 +51,7 @@ weight: 4
 
 ## Guías y planes de acción
 
++ **Nov 2024** - Plan de restauración ecológica y recuperación de especies para Baltra, Plaza Sur, Española e Isabela Norte 2025-2029 [(ES)](plan-accion-2024-esp.pdf) [(EN)](plan-accion-2024-ing.pdf)
 + **May 2018** - Galápagos Verde 2050 (POSTER) [(ES)](GV2050_poster.pdf)
 + **Oct 2017** - Action Plan for the Ecological Restoration of Baltra and Plaza Sur Islands [(ES)](PlanAccion_Baltra) (english)
 + **CONFIRMAR FECHA** - Tríptico Galapagos Verde 2050 [(ES)](triptico_es.pdf)

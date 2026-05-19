@@ -1,3 +1,9 @@
+# GV2050-Wiki
+This repository contains all the files for the correct functioning of the GV2050 Wiki.
+
+[Link wiki GV2050 actualizada](https://gv2050program-wiki.netlify.app/)
+
+For guidance on the contents of this repo and how to update it please consult the following tutorial:
 
 ### Used this for reference on setting up the site:
 https://alison.rbind.io/blog/2020-12-new-year-new-blogdown
