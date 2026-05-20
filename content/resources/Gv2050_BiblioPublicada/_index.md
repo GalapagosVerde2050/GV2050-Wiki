@@ -14,23 +14,23 @@ weight: 4
 
 + **Nov 2025** - Plant science meets the decision-making process of restoration in quarries and waste dumps of a remote archipelago [(PDF)](restauracion_minas.pdf)
 
-+ **Oct 2025** - Confirmed presence of a population of the critically endangered shrub Scalesia retroflexa after 29 years without sightings [(PDF)](S_retroflexa_nota.pdf)
++ **Oct 2025** - Confirmed presence of a population of the critically endangered shrub *Scalesia retroflexa* after 29 years without sightings [(PDF)](S_retroflexa_nota.pdf)
 
-+ **Aug 2024** - Advancing conservation strategies for the endangered Galapagos plant Lecocarpus lecocarpoides: insights from ex situ propagation [(PDF)](articulo_Lecocarpus.pdf)
++ **Aug 2024** - Advancing conservation strategies for the endangered Galapagos plant *Lecocarpus lecocarpoides*: insights from ex situ propagation [(PDF)](articulo_Lecocarpus.pdf)
 
 + **May 2024** - Defining large-scale arid island vegetation recovery targets through evaluating a reference ecosystem within an archipelago extent [(PDF)](articulo_Baltra.pdf)
 
-+ **May 2024** - Potential model of Scalesia pedunculata carbon sequestration through restoration efforts in agricultural fields of Galapagos [(PDF)](carbono_Scalesia.pdf)
++ **May 2024** - Potential model of *Scalesia pedunculata* carbon sequestration through restoration efforts in agricultural fields of Galapagos [(PDF)](carbono_Scalesia.pdf)
 
-+ **Jan 2024** - Assessing Water-Saving Technologies and the Impact of Giant Tortoise Herbivory on the Restoration of Opuntia megasperma var. orientalis on Española Island—Galapagos [(PDF)](water-Española.pdf)
++ **Jan 2024** - Assessing Water-Saving Technologies and the Impact of Giant Tortoise Herbivory on the Restoration of *Opuntia megasperma* var. *orientalis* on Española Island—Galapagos [(PDF)](water-Española.pdf)
 
-+ **Dec 2023** - Enhancing restoration success of rare plants in an arid-tropical climate through water-saving technologies: a case study of Scalesia affinis ssp. brachyloba in the Galapagos Islands [(PDF)](peerj-S_affinis.pdf)
++ **Dec 2023** - Enhancing restoration success of rare plants in an arid-tropical climate through water-saving technologies: a case study of *Scalesia affinis* ssp. *brachyloba* in the Galapagos Islands [(PDF)](peerj-S_affinis.pdf)
 
 + **June 2023** - Water-Saving Technologies in Galapagos Agriculture: A Step towards Sustainability [(PDF)](horticulturae-five-crops.pdf)
 
 + **Oct 2022** - Adoption of Sustainable Agriculture Practices through Participatory Research: A Case Study on Galapagos Islands Farmers Using Water-Saving Technologies [(PDF)](plants-11-02848.pdf)
 
-+ **Apr 2022** - Rediscovery of the Galapagos endemic Lecocarpus leptolobus (Asteraceae), its morphology, distribution and taxonomy relative to its congeners [(PDF)](Tye_Jaramillo2022.pdf)
++ **Apr 2022** - Rediscovery of the Galapagos endemic *Lecocarpus leptolobus* (Asteraceae), its morphology, distribution and taxonomy relative to its congeners [(PDF)](Tye_Jaramillo2022.pdf)
 
 + **Oct 2021** - Cost‐effectiveness of water‐saving technologies for restoration of tropical dry forest: A case study from the Galapagos Islands, Ecuador [(PDF)](cost.pdf)
 
@@ -47,11 +47,11 @@ weight: 4
 [(EN)](SEED_GUIDE.pdf)
 
 ## Atlas de especies Nativas e Invasoras de Galápagos
-+ **Darwiniothamnus tenuifolius** - [(ES)](Darwiniothamnus_Atlas.pdf)
-+ **Galvezia leucantha** - [(ES)](Galvezia_Atlas.pdf)
-+ **Lecocarpus leptobulus** - [(ES)](Lecocarpus_Atlas.pdf)
-+ **Opuntia megasperma var. orientalis** - [(ES)](Opuntia_Atlas.pdf)
-+ **Scalesia affinis** - [(ES)](Scalesia_Atlas.pdf)
++ ***Darwiniothamnus tenuifolius*** - [(ES)](Darwiniothamnus_Atlas.pdf)
++ ***Galvezia leucantha*** - [(ES)](Galvezia_Atlas.pdf)
++ ***Lecocarpus leptobulus*** - [(ES)](Lecocarpus_Atlas.pdf)
++ ***Opuntia megasperma var. orientalis*** - [(ES)](Opuntia_Atlas.pdf)
++ ***Scalesia affinis*** - [(ES)](Scalesia_Atlas.pdf)
 
 
 ## Guías y planes de acción
@@ -63,9 +63,9 @@ weight: 4
 [(EN)](triptico_en.pdf)
 
 ## Blogs 
-+ **May 2024** - Lecocarpus lecocarpoides: From near local extinction to new beginnings on Española
++ **May 2024** - *Lecocarpus lecocarpoides*: From near local extinction to new beginnings on Española
 Island. [(Link)](https://www.darwinfoundation.org/en/news/all-news-stories/lecocarpus-lecocarpoides-from-near-local-extinction-to-new-beginnings-on-espanola-island/)
-+ **Feb 2024** - Re-encountering Scalesia retroflexa at El Garrapatero. [(Link)](https://www.darwinfoundation.org/en/news/all-news-stories/re-encountering-scalesia-retroflexa-at-el-garrapatero/)
++ **Feb 2024** - Re-encountering *Scalesia retroflexa* at El Garrapatero. [(Link)](https://www.darwinfoundation.org/en/news/all-news-stories/re-encountering-scalesia-retroflexa-at-el-garrapatero/)
 + **Jul 2022** - Leaving my mark in the Galapagos as a GV2050 volunteer! [(Link)](https://www.darwinfoundation.org/en/blog-articles/820-leaving-my-mark-in-the-galapagos-as-a-gv2050-volunteer)
 + **Jun 2022** - Galápagos Verde 2050: Adventure of a lifetime for an ecological restoration biologist on the Galapagos Islands! [(Link)](https://www.darwinfoundation.org/en/blog-articles/800-galapagos-verde-2050-adventure-of-a-lifetime-for-an-ecological-restoration-biologist-on-the-galapagos-islands)
 + **Jun 2020** - Salvando una especie al borde de la extinción: Galápagos Verde 2050 [(Link)](https://www.darwinfoundation.org/es/articulos-blog/576-salvando-una-especie-al-borde-de-la-extincion-galapagos-verde-2050)
@@ -82,7 +82,7 @@ Life re-emerging! Galápagos Verde 2050: Cacti recovering on remote islands [(Li
 https://www.darwinfoundation.org/en/blog-articles/408-galapagos-finalist-for-the-latinoamerica-verde-awards-2018)
 + **Jul 2018** - 
 Taking care of very important baby plants [(Link)](https://www.darwinfoundation.org/en/blog-articles/395-taking-care-of-very-important-baby-plants)
-+ **May 2018** - Population recovery of Galvezia leucantha var. leucantha on Isabela Island [(Link)](https://www.darwinfoundation.org/en/blog-articles/378-population-recovery-of-galvezia-leucantha-var-leucantha-on-isabela-island)
++ **May 2018** - Population recovery of *Galvezia leucantha* var. *leucantha* on Isabela Island [(Link)](https://www.darwinfoundation.org/en/blog-articles/378-population-recovery-of-galvezia-leucantha-var-leucantha-on-isabela-island)
 + **Mar 2018** - 
 Ecological Restoration in Action: Plaza Sur, a Thorny Surprise [(Link)](https://www.darwinfoundation.org/en/blog-articles/356-ecological-restoration-in-action-plaza-sur-a-thorny-surprise)
 + **Jul 2017** - Galapagos Verde 2050 is Starting the Process of Ecological Restoration on Española Island [(Link)](https://www.darwinfoundation.org/en/blog-articles/138-galapagos-verde-2050-is-starting-the-process-of-ecological-restoration-on-espanola-island)
